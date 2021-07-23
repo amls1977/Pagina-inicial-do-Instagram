@@ -1,6 +1,6 @@
 # Olá, tudo bem?  :)
 
-Esse é o meu projeto da aula de Flexbox, na qual  na qual foi criada interface de login do Instagram! 
+Esse é o meu projeto da aula de Flexbox, na qual foi criada interface de Login do Instagram! 
 
 ### Os requisitos foram:
 
